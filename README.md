@@ -21,4 +21,7 @@ I used Replit to avoid local setup and relied on Burn’s docs and AI assistance
 
 ## Resources
 - [Burn Docs](https://docs.rs/burn/0.16.0/burn/)
+ HEAD
 - [Rust Docs](https://doc.rust-lang.org/)
+- [Rust Docs](https://doc.rust-lang.org/)
+>>>>>>> origin/main
